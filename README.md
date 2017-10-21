@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 20, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kelli LaBelle
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learned how to tell the difference between taxes and use them for different status' in a persons life.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kel15b.github.io/lesson5_javascript2/
+
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. I learned about the different taxes and prices.
+2. I learned about that there is a difference between filing seperate and jointly.
+3. I also learned the different types of coding to put taxes into the computer.
